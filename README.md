@@ -1,5 +1,5 @@
 # selectolaxpath
-XPATH for Selectolax, specifically designed to be plug-and-pay with playwright
+XPATH for Selectolax, specifically designed to be plug-and-play with playwright
 
 Example:
 
